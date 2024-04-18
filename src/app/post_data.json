@@ -1,0 +1,14 @@
+{
+    "posts": [
+        {
+            "title": "This is my first post!!",
+            "image": "https://travel.home.sndimg.com/content/dam/images/travel/fullset/2012/08/20/70/waterfall-wonders_ss_001.rend.hgtvcom.1280.1280.suffix/1491581026366.jpeg",
+            "content": "I created this blog with Next.js!!!!"
+        },
+        {
+            "title": "This is my second post!!",
+            "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2017/04/featuredwaterfalls.jpg?w=1250&h=1120&crop=1",
+            "content": "I created these posts with Next.js Routes!!!!"
+        }
+    ]
+}

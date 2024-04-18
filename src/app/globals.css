@@ -26,6 +26,50 @@ body {
     rgb(var(--background-start-rgb));
 }
 
+.nav {
+  margin-bottom: 40px;
+}
+
+.nav a {
+margin-right: 20px;
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+.center img{
+  width: 25rem;
+  margin-bottom: 10px;
+}
+
+.mainTitle{
+  font-size: 2rem;
+}
+
+.postCard{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 40px;
+  background: white;
+  color: black;
+  border-radius: 20px;
+  max-width: 300px;
+  margin-bottom: 40px;
+  text-align: center;
+  align-items: center;
+}
+
+.postCard img{
+  width: 12rem;
+  margin-bottom: 10px;
+}
+
 @layer utilities {
   .text-balance {
     text-wrap: balance;
